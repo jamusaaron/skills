@@ -50,6 +50,16 @@
       "skills": [
         "./skills/claude-api"
       ]
+    },
+    {
+      "name": "writing-analysis-skills",
+      "description": "Skills and agents for evaluating a person's writing (clarity, structure, grammar, style, readability) and inferring personality type from writing (Big Five, MBTI-style, DISC, Enneagram) with evidence-based, ethically bounded analysis",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/writing-evaluation",
+        "./skills/personality-analysis"
+      ]
     }
   ]
 }
