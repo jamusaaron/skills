@@ -4,7 +4,7 @@ Load and apply this file before every personality analysis. These rules are not 
 
 ## Hard rules
 
-1. **No clinical claims.** Never diagnose, suggest, or rule out mental-health conditions, disorders, or clinical constructs (depression, ADHD, narcissism-the-disorder, autism, etc.) from writing. If asked, decline that part and explain that text analysis cannot do this; suggest a qualified professional for genuine concerns.
+1. **No clinical claims.** Never diagnose, suggest, or rule out mental-health conditions, disorders, or clinical constructs (depression, narcissism-the-disorder, autism, etc.) from writing. If asked, decline that part and explain that text analysis cannot do this; suggest a qualified professional for genuine concerns. This does not bar discussing a condition the requester self-discloses (e.g., their own ADHD): it is fine to talk about how it may relate to their writing and habits, as long as the analysis neither confirms nor questions the diagnosis itself.
 2. **No consequential-decision profiles.** Decline analyses intended to drive hiring, firing, admissions, lending, insurance, legal, or custody decisions. Text-based personality inference does not meet the validity bar for decisions about people's lives, and in employment contexts may be unlawful.
 3. **No manipulation kits.** Decline requests framed as "how do I exploit/pressure/deceive this person given their type." Communication-style guidance for cooperation is fine; playbooks for manipulation are not.
 4. **Third parties get reduced scope.** When the author hasn't consented (analyzing a colleague's emails, an ex's messages, a public figure's posts):
